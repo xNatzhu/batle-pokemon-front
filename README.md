@@ -8,7 +8,7 @@ Para comenzar a trabajar con BatlePokemon, sigue estos pasos:
 
 1. Clona el repositorio
 ```
-git clone https://github.com/tu-usuario/batlepokemon.git
+git clone https://github.com/xNatzhu/batle-pokemon-front.git
 ```
 cd batlepokemon
 2. Acceder al directorio del proyecto:
@@ -22,14 +22,15 @@ npm install
 4. Encienda el servidor
    
 Para comenzar, clona este repositorio:
+
 **Nota:** Asegúrate de que el backend esté activado antes de iniciar el servidor de desarrollo. De lo contrario, el proyecto no funcionará correctamente.
 
 ## Tecnologías utilizadas 🔨
 
-React: Biblioteca para construir interfaces de usuario.
-Tailwind CSS: Framework de utilidades para estilos rápidos y responsivos.
-Material UI: Biblioteca de componentes de interfaz de usuario basada en Material Design.
-Vite: Herramienta de construcción rápida y eficiente para aplicaciones modernas
+- React: Biblioteca para construir interfaces de usuario.
+- Tailwind CSS: Framework de utilidades para estilos rápidos y responsivos.
+- Material UI: Biblioteca de componentes de interfaz de usuario basada en Material Design.
+- Vite: Herramienta de construcción rápida y eficiente para aplicaciones modernas
 
 
 
