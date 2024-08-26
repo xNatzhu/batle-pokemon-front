@@ -1,6 +1,6 @@
-# BatlePokemon
+# BattlePokemon
 
-BatlePokemon es un emocionante proyecto que te permite hacer que tus Pokémon luchen entre sí. Este proyecto está construido con React, Tailwind CSS, Material UI y Vite para una experiencia de desarrollo rápida y eficiente.
+BattlePokemon es un emocionante proyecto que te permite hacer que tus Pokémon luchen entre sí.
 
 ## 🚀 Instalación
 
@@ -8,12 +8,12 @@ Para comenzar a trabajar con BatlePokemon, sigue estos pasos:
 
 1. Clona el repositorio
 ```
-git clone https://github.com/xNatzhu/batle-pokemon-front.git
+git clone https://github.com/xNatzhu/battle-pokemon-front.git
 ```
-cd batlepokemon
+
 2. Acceder al directorio del proyecto:
 ```
-cd batle-pokemon-front
+cd battle-pokemon-front
 ```
 3. Luego proceda a instalar las dependencias:
 ```
