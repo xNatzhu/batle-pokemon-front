@@ -21,8 +21,8 @@ npm install
 ```
 4. Encienda el servidor
    
-Para eso debera clonar este repositorio: `````` 
-Recordar antes de iniciarlo, que el backend se encuentre activado de lo contrario no se podra ver el proyecto.
+Para comenzar, clona este repositorio:
+**Nota:** Asegúrate de que el backend esté activado antes de iniciar el servidor de desarrollo. De lo contrario, el proyecto no funcionará correctamente.
 
 ## Tecnologías utilizadas 🔨
 
