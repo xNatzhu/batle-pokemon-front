@@ -27,7 +27,8 @@ npm run dev
 
 5. Encienda el servidor
 
-**Nota:** Asegúrate de que el backend esté activado antes de iniciar el servidor de desarrollo. De lo contrario, el proyecto no funcionará correctamente.
+**Nota:** Asegúrate de que el backend esté activado antes de iniciar el servidor de desarrollo. De lo contrario, el proyecto no funcionará correctamente: 
+[Repositorio Backend ](https://github.com/xNatzhu/battle-pokemon-backend/tree/main).
 
 ## Tecnologías utilizadas 🔨
 
