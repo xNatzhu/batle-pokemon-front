@@ -19,9 +19,13 @@ cd battle-pokemon-front
 ```
 npm install
 ```
-4. Encienda el servidor
-   
-Para comenzar, clona este repositorio:
+
+4. Luego proceda a instalar las dependencias:
+```
+npm run dev
+```
+
+5. Encienda el servidor
 
 **Nota:** Asegúrate de que el backend esté activado antes de iniciar el servidor de desarrollo. De lo contrario, el proyecto no funcionará correctamente.
 
